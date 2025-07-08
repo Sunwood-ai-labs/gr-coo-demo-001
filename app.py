@@ -2,7 +2,7 @@
 import gradio as gr
 
 def greet(name):
-    return f"Hello {name}!"
+    return f"Hello AAAAAAAA {name}!"
 
 # 重要：server_nameとserver_portを指定
 demo = gr.Interface(
